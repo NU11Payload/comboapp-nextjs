@@ -1,4 +1,4 @@
-# [Tripsit.me's] (https://nextjs.org) V2 of Combo-app, with react elements and migration over to next.js [`NExt.js`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [Tripsit.me's](https://tripsit.me) V2 of Combo-app, with React elements and migration over to [Next.js](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -19,17 +19,21 @@ pnpm dev
 bun dev
 ```
 
-
-
 TODO:
--[x]UI/UX
-- Backend Logic conversion
-- Dockerize
-- Deploy
+
+- [x] UI/UX
+- [ ] Backend Logic conversion
+- [ ] Dockerize
+- [ ] Deploy
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start by heading to the original Comboapp repository and helping migrate flow js into next.js, and submitting a PR. 
+You can start by heading to the original Comboapp repository and helping migrate flow js into Next.js, and submitting a PR. 
 
+## Dependencies
 
-This upgrade will utilize the following libraries/dependencies, ShadCN , Lucide-Reract, React-Dom- React-Scripts
+This upgrade utilizes the following libraries/dependencies:
+- ShadCN
+- Lucide-React
+- React-Dom
+- React-Scripts
